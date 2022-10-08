@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: grey;
+}
+.perfil{
+    float: left;;
+    margin: 10px;
+}
+.titulo{
+    text-align: center;
+    color: white;
+}
+.experiencia{
+    text-align: center;
+}
+.contacto{
+    text-align: center;
+}
+.redsocial a{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: black;
+    margin-right: 10 px;
+    background-color: #0d2033;
+    color: antiquewhite;
+    text-align: center;
+    transition: all  500ms ease;
+}
